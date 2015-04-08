@@ -36,7 +36,7 @@ npm i --save-dev loaders.css
 - Insert the appropriate number of `<div>`s into that element
 
 ##### jQuery (optional)
-- Include `loaders.min.css`, jQuery, and `loaders.js`
+- Include `loaders.min.css`, jQuery, and `loaders.css.js`
 - Create an element and add the animation class (e.g. `<div class="loader-inner ball-pulse"></div>`)
 - `loaders.js` is a simple helper to inject the correct number of div elements for each animation
 - Enjoy
@@ -53,6 +53,17 @@ Add styles to the correct child `div` elements
 }
 ```
 
+### Browser support
+
+Check the [can I use](http://caniuse.com/#search=css-animation) [tables](http://caniuse.com/#search=css-transform).
+All recent versions of the major browsers are supported and it has support back to IE9.
+
+Note: The loaders aren't run through autoprefixer, see this [issue](https://github.com/ConnorAtherton/loaders.css/issues/18).
+
+IE 11  | Firefox 36 | Chrome 41 | Safari 8
+------ | ---------- | --------- | --------
+✔ | ✔ | ✔ | ✔
+
 ### Contributing
 
 Pull requests are welcome! Create another file in `src/animations`
@@ -67,6 +78,8 @@ in a browser to see your animation running.
 - http://aerotwist.com/blog/pixels-are-expensive/
 - http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
 - http://frontendbabel.info/articles/webpage-rendering-101/
+
+[Jon Jaques](https://github.com/jonjaques) has built a small React demo you can check out [here](https://github.com/jonjaques/react-loaders)
 
 ### Licence
 

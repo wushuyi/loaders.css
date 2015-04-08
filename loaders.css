@@ -783,50 +783,50 @@
 .ball-grid-beat {
   width: 57px; }
   .ball-grid-beat > div:nth-child(1) {
-    -webkit-animation-delay: 0.67s;
-            animation-delay: 0.67s;
-    -webkit-animation-duration: 0.73s;
-            animation-duration: 0.73s; }
-  .ball-grid-beat > div:nth-child(2) {
-    -webkit-animation-delay: 0.67s;
-            animation-delay: 0.67s;
-    -webkit-animation-duration: 1.49s;
-            animation-duration: 1.49s; }
-  .ball-grid-beat > div:nth-child(3) {
-    -webkit-animation-delay: 0.67s;
-            animation-delay: 0.67s;
+    -webkit-animation-delay: 0.36s;
+            animation-delay: 0.36s;
     -webkit-animation-duration: 0.96s;
             animation-duration: 0.96s; }
+  .ball-grid-beat > div:nth-child(2) {
+    -webkit-animation-delay: 0.4s;
+            animation-delay: 0.4s;
+    -webkit-animation-duration: 0.93s;
+            animation-duration: 0.93s; }
+  .ball-grid-beat > div:nth-child(3) {
+    -webkit-animation-delay: 0.68s;
+            animation-delay: 0.68s;
+    -webkit-animation-duration: 1.19s;
+            animation-duration: 1.19s; }
   .ball-grid-beat > div:nth-child(4) {
-    -webkit-animation-delay: 0.26s;
-            animation-delay: 0.26s;
-    -webkit-animation-duration: 1.46s;
-            animation-duration: 1.46s; }
+    -webkit-animation-delay: 0.41s;
+            animation-delay: 0.41s;
+    -webkit-animation-duration: 1.13s;
+            animation-duration: 1.13s; }
   .ball-grid-beat > div:nth-child(5) {
+    -webkit-animation-delay: 0.71s;
+            animation-delay: 0.71s;
+    -webkit-animation-duration: 1.34s;
+            animation-duration: 1.34s; }
+  .ball-grid-beat > div:nth-child(6) {
+    -webkit-animation-delay: -0.15s;
+            animation-delay: -0.15s;
+    -webkit-animation-duration: 0.94s;
+            animation-duration: 0.94s; }
+  .ball-grid-beat > div:nth-child(7) {
+    -webkit-animation-delay: -0.12s;
+            animation-delay: -0.12s;
+    -webkit-animation-duration: 1.2s;
+            animation-duration: 1.2s; }
+  .ball-grid-beat > div:nth-child(8) {
     -webkit-animation-delay: 0.01s;
             animation-delay: 0.01s;
-    -webkit-animation-duration: 1.2s;
-            animation-duration: 1.2s; }
-  .ball-grid-beat > div:nth-child(6) {
-    -webkit-animation-delay: -0.09s;
-            animation-delay: -0.09s;
-    -webkit-animation-duration: 0.64s;
-            animation-duration: 0.64s; }
-  .ball-grid-beat > div:nth-child(7) {
-    -webkit-animation-delay: 0.66s;
-            animation-delay: 0.66s;
-    -webkit-animation-duration: 0.64s;
-            animation-duration: 0.64s; }
-  .ball-grid-beat > div:nth-child(8) {
-    -webkit-animation-delay: 0.33s;
-            animation-delay: 0.33s;
-    -webkit-animation-duration: 1.2s;
-            animation-duration: 1.2s; }
+    -webkit-animation-duration: 0.82s;
+            animation-duration: 0.82s; }
   .ball-grid-beat > div:nth-child(9) {
-    -webkit-animation-delay: -0.07s;
-            animation-delay: -0.07s;
-    -webkit-animation-duration: 0.87s;
-            animation-duration: 0.87s; }
+    -webkit-animation-delay: 0.32s;
+            animation-delay: 0.32s;
+    -webkit-animation-duration: 1.19s;
+            animation-duration: 1.19s; }
   .ball-grid-beat > div {
     background-color: #fff;
     width: 15px;
@@ -836,6 +836,7 @@
     -webkit-animation-fill-mode: both;
             animation-fill-mode: both;
     display: inline-block;
+    float: left;
     -webkit-animation-name: ball-grid-beat;
             animation-name: ball-grid-beat;
     -webkit-animation-iteration-count: infinite;
@@ -876,50 +877,50 @@
 .ball-grid-pulse {
   width: 57px; }
   .ball-grid-pulse > div:nth-child(1) {
-    -webkit-animation-delay: 0.42s;
-            animation-delay: 0.42s;
-    -webkit-animation-duration: 0.67s;
-            animation-duration: 0.67s; }
-  .ball-grid-pulse > div:nth-child(2) {
-    -webkit-animation-delay: 0s;
-            animation-delay: 0s;
-    -webkit-animation-duration: 1.56s;
-            animation-duration: 1.56s; }
-  .ball-grid-pulse > div:nth-child(3) {
-    -webkit-animation-delay: 0.15s;
-            animation-delay: 0.15s;
-    -webkit-animation-duration: 0.81s;
-            animation-duration: 0.81s; }
-  .ball-grid-pulse > div:nth-child(4) {
-    -webkit-animation-delay: 0.68s;
-            animation-delay: 0.68s;
-    -webkit-animation-duration: 1.17s;
-            animation-duration: 1.17s; }
-  .ball-grid-pulse > div:nth-child(5) {
-    -webkit-animation-delay: 0.33s;
-            animation-delay: 0.33s;
-    -webkit-animation-duration: 0.92s;
-            animation-duration: 0.92s; }
-  .ball-grid-pulse > div:nth-child(6) {
-    -webkit-animation-delay: 0.15s;
-            animation-delay: 0.15s;
-    -webkit-animation-duration: 1.38s;
-            animation-duration: 1.38s; }
-  .ball-grid-pulse > div:nth-child(7) {
     -webkit-animation-delay: -0.06s;
             animation-delay: -0.06s;
-    -webkit-animation-duration: 0.88s;
-            animation-duration: 0.88s; }
+    -webkit-animation-duration: 0.72s;
+            animation-duration: 0.72s; }
+  .ball-grid-pulse > div:nth-child(2) {
+    -webkit-animation-delay: 0.25s;
+            animation-delay: 0.25s;
+    -webkit-animation-duration: 1.02s;
+            animation-duration: 1.02s; }
+  .ball-grid-pulse > div:nth-child(3) {
+    -webkit-animation-delay: -0.17s;
+            animation-delay: -0.17s;
+    -webkit-animation-duration: 1.28s;
+            animation-duration: 1.28s; }
+  .ball-grid-pulse > div:nth-child(4) {
+    -webkit-animation-delay: 0.48s;
+            animation-delay: 0.48s;
+    -webkit-animation-duration: 1.42s;
+            animation-duration: 1.42s; }
+  .ball-grid-pulse > div:nth-child(5) {
+    -webkit-animation-delay: 0.31s;
+            animation-delay: 0.31s;
+    -webkit-animation-duration: 1.45s;
+            animation-duration: 1.45s; }
+  .ball-grid-pulse > div:nth-child(6) {
+    -webkit-animation-delay: 0.03s;
+            animation-delay: 0.03s;
+    -webkit-animation-duration: 1.18s;
+            animation-duration: 1.18s; }
+  .ball-grid-pulse > div:nth-child(7) {
+    -webkit-animation-delay: 0.46s;
+            animation-delay: 0.46s;
+    -webkit-animation-duration: 0.87s;
+            animation-duration: 0.87s; }
   .ball-grid-pulse > div:nth-child(8) {
-    -webkit-animation-delay: 0.61s;
-            animation-delay: 0.61s;
-    -webkit-animation-duration: 1.38s;
-            animation-duration: 1.38s; }
+    -webkit-animation-delay: 0.78s;
+            animation-delay: 0.78s;
+    -webkit-animation-duration: 1.45s;
+            animation-duration: 1.45s; }
   .ball-grid-pulse > div:nth-child(9) {
-    -webkit-animation-delay: 0.44s;
-            animation-delay: 0.44s;
-    -webkit-animation-duration: 1.51s;
-            animation-duration: 1.51s; }
+    -webkit-animation-delay: 0.45s;
+            animation-delay: 0.45s;
+    -webkit-animation-duration: 1.06s;
+            animation-duration: 1.06s; }
   .ball-grid-pulse > div {
     background-color: #fff;
     width: 15px;
@@ -929,6 +930,7 @@
     -webkit-animation-fill-mode: both;
             animation-fill-mode: both;
     display: inline-block;
+    float: left;
     -webkit-animation-name: ball-grid-pulse;
             animation-name: ball-grid-pulse;
     -webkit-animation-iteration-count: infinite;
@@ -1355,25 +1357,25 @@
             transform: scale(1); } }
 
 .line-scale-party > div:nth-child(1) {
-  -webkit-animation-delay: 0.75s;
-          animation-delay: 0.75s;
-  -webkit-animation-duration: 0.33s;
-          animation-duration: 0.33s; }
+  -webkit-animation-delay: 0.77s;
+          animation-delay: 0.77s;
+  -webkit-animation-duration: 1.26s;
+          animation-duration: 1.26s; }
 .line-scale-party > div:nth-child(2) {
-  -webkit-animation-delay: -0.03s;
-          animation-delay: -0.03s;
-  -webkit-animation-duration: 1.05s;
-          animation-duration: 1.05s; }
+  -webkit-animation-delay: 0.29s;
+          animation-delay: 0.29s;
+  -webkit-animation-duration: 0.43s;
+          animation-duration: 0.43s; }
 .line-scale-party > div:nth-child(3) {
-  -webkit-animation-delay: -0.18s;
-          animation-delay: -0.18s;
-  -webkit-animation-duration: 1.09s;
-          animation-duration: 1.09s; }
+  -webkit-animation-delay: 0.28s;
+          animation-delay: 0.28s;
+  -webkit-animation-duration: 1.01s;
+          animation-duration: 1.01s; }
 .line-scale-party > div:nth-child(4) {
-  -webkit-animation-delay: 0.49s;
-          animation-delay: 0.49s;
-  -webkit-animation-duration: 0.99s;
-          animation-duration: 0.99s; }
+  -webkit-animation-delay: 0.74s;
+          animation-delay: 0.74s;
+  -webkit-animation-duration: 0.73s;
+          animation-duration: 0.73s; }
 .line-scale-party > div {
   background-color: #fff;
   width: 4px;
@@ -1655,6 +1657,58 @@
   -webkit-animation: square-spin 3s 0s cubic-bezier(.09, .57, .49, .9) infinite;
           animation: square-spin 3s 0s cubic-bezier(.09, .57, .49, .9) infinite; }
 
+@-webkit-keyframes rotate_pacman_half_up {
+  0% {
+    -webkit-transform: rotate(270deg);
+            transform: rotate(270deg); }
+
+  50% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg); }
+
+  100% {
+    -webkit-transform: rotate(270deg);
+            transform: rotate(270deg); } }
+
+@keyframes rotate_pacman_half_up {
+  0% {
+    -webkit-transform: rotate(270deg);
+            transform: rotate(270deg); }
+
+  50% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg); }
+
+  100% {
+    -webkit-transform: rotate(270deg);
+            transform: rotate(270deg); } }
+
+@-webkit-keyframes rotate_pacman_half_down {
+  0% {
+    -webkit-transform: rotate(90deg);
+            transform: rotate(90deg); }
+
+  50% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+
+  100% {
+    -webkit-transform: rotate(90deg);
+            transform: rotate(90deg); } }
+
+@keyframes rotate_pacman_half_down {
+  0% {
+    -webkit-transform: rotate(90deg);
+            transform: rotate(90deg); }
+
+  50% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+
+  100% {
+    -webkit-transform: rotate(90deg);
+            transform: rotate(90deg); } }
+
 @-webkit-keyframes pacman-balls {
   75% {
     opacity: 0.7; }
@@ -1677,14 +1731,14 @@
     -webkit-animation: pacman-balls 1s 0s infinite linear;
             animation: pacman-balls 1s 0s infinite linear; }
   .pacman > div:nth-child(3) {
-    -webkit-animation: pacman-balls 1s 0.25s infinite linear;
-            animation: pacman-balls 1s 0.25s infinite linear; }
+    -webkit-animation: pacman-balls 1s 0.33s infinite linear;
+            animation: pacman-balls 1s 0.33s infinite linear; }
   .pacman > div:nth-child(4) {
-    -webkit-animation: pacman-balls 1s 0.5s infinite linear;
-            animation: pacman-balls 1s 0.5s infinite linear; }
+    -webkit-animation: pacman-balls 1s 0.66s infinite linear;
+            animation: pacman-balls 1s 0.66s infinite linear; }
   .pacman > div:nth-child(5) {
-    -webkit-animation: pacman-balls 1s 0.75s infinite linear;
-            animation: pacman-balls 1s 0.75s infinite linear; }
+    -webkit-animation: pacman-balls 1s 0.99s infinite linear;
+            animation: pacman-balls 1s 0.99s infinite linear; }
   .pacman > div:first-of-type {
     width: 0px;
     height: 0px;
@@ -1692,8 +1746,21 @@
     border-top: 25px solid #fff;
     border-left: 25px solid #fff;
     border-bottom: 25px solid #fff;
-    border-radius: 25px; }
-  .pacman > div:nth-child(2), .pacman > div:nth-child(3), .pacman > div:nth-child(4), .pacman > div:nth-child(5) {
+    border-radius: 25px;
+    -webkit-animation: rotate_pacman_half_up 0.5s 0s infinite;
+            animation: rotate_pacman_half_up 0.5s 0s infinite; }
+  .pacman > div:nth-child(2) {
+    width: 0px;
+    height: 0px;
+    border-right: 25px solid transparent;
+    border-top: 25px solid #fff;
+    border-left: 25px solid #fff;
+    border-bottom: 25px solid #fff;
+    border-radius: 25px;
+    -webkit-animation: rotate_pacman_half_down 0.5s 0s infinite;
+            animation: rotate_pacman_half_down 0.5s 0s infinite;
+    margin-top: -50px; }
+  .pacman > div:nth-child(3), .pacman > div:nth-child(4), .pacman > div:nth-child(5), .pacman > div:nth-child(6) {
     background-color: #fff;
     width: 15px;
     height: 15px;
